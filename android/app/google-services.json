@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "70020046203",
+    "project_id": "groppel-7dcef",
+    "storage_bucket": "groppel-7dcef.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:70020046203:android:32156dab75fc776d9cb1de",
+        "android_client_info": {
+          "package_name": "com.example.gropare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "70020046203-jgtd4k1drqli7sf0lpr9v4i3mq6dj1sp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbl5VSUuE3aPVcMxGcq6kAnplvWEUIPLY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "70020046203-jgtd4k1drqli7sf0lpr9v4i3mq6dj1sp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
